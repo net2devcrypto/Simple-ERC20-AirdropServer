@@ -1,5 +1,15 @@
-
 // SPDX-License-Identifier: MIT LICENSE
+
+/*
+N2D ERC20 AirDrop Smart Contract.
+THIS CONTRACT IS AVAILABLE FOR EDUCATIONAL 
+PURPOSES ONLY. YOU ARE SOLELY REPONSIBLE 
+FOR ITS USE. I AM NOT RESPONSIBLE FOR ANY
+OTHER USE. THIS IS TRAINING/EDUCATIONAL
+MATERIAL. ONLY USE IT IF YOU AGREE TO THE
+TERMS SPECIFIED ABOVE.
+*/
+
 import "https://github.com/net2devcrypto/Simple-ERC20-AirdropServer/N2DPlus.sol";
 import "@openzeppelin/contracts/access/Ownable.sol";
 
