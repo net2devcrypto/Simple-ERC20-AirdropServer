@@ -69,7 +69,7 @@ the Airdrop smartcontract and update:
 
 var ethPrivkey = '0xPRIVATEKEY'; (Leave 0x)
 
-Add the NFT smartcontract address in the field:
+Add YOUR NFT smartcontract address in the field:
 
 var nftcontract = 'NFTSMARTCONTRACTADDRESS';
 
